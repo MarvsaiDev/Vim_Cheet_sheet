@@ -1,5 +1,5 @@
 Number One 
-* :%s/^\(.*\)$/"\1"/
+* `:%s/^\(.*\)$/"\1"/c`
 
 `s/regex/replace/ is vim command for search n replace.
 % makes it apply throughout the file
